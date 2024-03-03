@@ -17,7 +17,7 @@ I’m currently working on:
 [Flashing Dark on Steam](https://store.steampowered.com/app/2838490/Flashing_Dark/)
 
 ## 🌐 Connect with me:
-Personal Email: fkjahadev@gmail.com
+Personal Email: fkjahadev@gmail.com  
 Work Email: andriitaras7@gmail.com
 
 # 💻 Tech Stack:
