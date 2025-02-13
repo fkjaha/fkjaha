@@ -2,7 +2,7 @@
 
 # ✨ About Me:
 I am a Unity C# Game Developer at Flat Surface Studio.  
-Currently, I am a second-year computer science student at PJATK.
+Currently, I am a third-year computer science student at PJATK.
 
 ## 🚀 What I'm Up To
 
@@ -17,8 +17,8 @@ I’m currently working on:
 [Flashing Dark on Steam](https://store.steampowered.com/app/2838490/Flashing_Dark/)
 
 ## 🌐 Connect with me:
-Personal Email: fkjahadev@gmail.com  
-Work Email: andriitaras7@gmail.com
+Personal Email: fkjaha@gmail.com  
+Work Email (less likely to answer): andriitaras7@gmail.com
 
 # 💻 Tech Stack:
 Actively Using:
